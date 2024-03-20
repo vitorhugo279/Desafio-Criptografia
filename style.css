@@ -1,0 +1,15 @@
+* {
+  background: rgb(247, 237, 237);
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 150%;
+  border-radius: 8px;
+
+}
+.header {
+ color: red;
+ text-align: center;
+
+  
+}
